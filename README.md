@@ -13,7 +13,7 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://linkedin.com/in/salihyilmazz" target="_blank" rel="noopener noreferrer"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/salihyilmazz" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:salih_yil@live.com"> <img src="https://www.freepngimg.com/download/microsoft/70676-hotmail-outlook-outlook.com-microsoft-email-png-download-free.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.hackerrank.com/salih_yil" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="hackerrank" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
