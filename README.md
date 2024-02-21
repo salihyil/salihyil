@@ -36,5 +36,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salihyil&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihyil&theme=tokyonight)
 
+## daily.dev
+<a href="https://app.daily.dev/salihyil"><img src="https://api.daily.dev/devcards/v2/REw1A1BsOx5Jmpjwc2zPP.png?type=default&r=1lk" width="356" alt="salih's Dev Card"/></a>
 
 
