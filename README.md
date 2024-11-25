@@ -39,4 +39,9 @@
 ## daily.dev
 <a href="https://app.daily.dev/salihyil"><img src="https://api.daily.dev/devcards/v2/REw1A1BsOx5Jmpjwc2zPP.png?type=default&r=1lk" width="356" alt="salih's Dev Card"/></a>
 
+## Watch snake eating my github contributions
+
+![snake gif](https://github.com/salihyil/salihyil/blob/output/github-contribution-grid-snake.svg)
+
+
 
